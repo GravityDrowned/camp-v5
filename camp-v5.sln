@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "camp-v5", "camp-v5\camp-v5.csproj", "{82451FF1-D272-4111-AC83-CBB02FC10F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82451FF1-D272-4111-AC83-CBB02FC10F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82451FF1-D272-4111-AC83-CBB02FC10F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82451FF1-D272-4111-AC83-CBB02FC10F9C}.Debug|x64.ActiveCfg = Debug|x64
+		{82451FF1-D272-4111-AC83-CBB02FC10F9C}.Debug|x64.Build.0 = Debug|x64
+		{82451FF1-D272-4111-AC83-CBB02FC10F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82451FF1-D272-4111-AC83-CBB02FC10F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82451FF1-D272-4111-AC83-CBB02FC10F9C}.Release|x64.ActiveCfg = Release|x64
+		{82451FF1-D272-4111-AC83-CBB02FC10F9C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267CD0DF-2F0C-4EF2-AFA9-78F92933EA66}
+	EndGlobalSection
+EndGlobal
